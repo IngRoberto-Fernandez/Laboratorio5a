@@ -16,7 +16,12 @@ ul{
     background-color: rgb(246, 109, 11);
     width: 500px;
 }
-li{
-    background-color: bisque;
-    font-size: 50px;
-}
+li {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: orange;
+    min-width: 200px;
+    text-align: center;
+    margin: 5px;
+  }
